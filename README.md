@@ -52,7 +52,7 @@
 </head>
 <body>
     <div>
-        <h1>{{ < }}</h1>
+        <h1>{{ <333 }}</h1>
         <button id="startButton">Start</button>
         <pre id="dayrenn"></pre>
     </div>
