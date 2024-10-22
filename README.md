@@ -52,9 +52,9 @@
 </head>
 <body>
     <div>
-        <h1>{{ title }}</h1>
+        <h1>{{ < }}</h1>
         <button id="startButton">Start</button>
-        <pre id="lyrics"></pre>
+        <pre id="dayrenn"></pre>
     </div>
 </body>
 </html>
